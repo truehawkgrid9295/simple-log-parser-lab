@@ -1,2 +1,9 @@
-# simple-log-parser-lab
-A simple log parser project
+# Log Parser
+
+A simple log parser project.
+\n
+## Getting Started
+
+```bash
+python log.py
+```
